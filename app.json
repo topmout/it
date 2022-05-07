@@ -1,0 +1,22 @@
+{
+    "name": "wait",
+    "description": "wait",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "b27ee9cc-41e9-425e-b7fa-5e614e198d24"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/waityou999/fire/",
+    "repository": "https://github.com/waityou999/fire",
+    "stack": "container"
+}
